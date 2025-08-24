@@ -1,0 +1,12 @@
+[project]
+name = "agent-01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.6.9",
+    "dotenv>=0.9.9",
+    "openai-agents>=0.2.7",
+    "streamlit>=1.48.1",
+]
